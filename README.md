@@ -1,33 +1,30 @@
-# mobile-portofolio
 
-> Its a project on mobile protofolio finish.
+# Project Name
+Finish-mobile Portofolio
+
+> Description the project.
+In this project i build a Mobile portofolio.
 
 
 ## Built With
 
-- Major languages
-- html
-- css
+- Major languages 
+1) Html
+2) CSS
+- Frameworks
+I use the Vs code
+- Technologies used
+I use my computer
+
+
+
+## Authors
+This project was solo so i am the only author.
 
 👤 **Author1**
-- GitHub: [@githubhandle](https://github.com/SabaAhmad786)
 
+- GitHub:(https://github.com/SabaAhmad786)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
